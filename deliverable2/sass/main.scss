@@ -1,6 +1,6 @@
 /*plain css*/
 
-
+/*hoi*/
 html
 {
 	font-family: 'Roboto', sans-serif;
@@ -22,6 +22,7 @@ body
 	height: 35rem;
 	display: flex	
 }
+
  /*begin styling of navigation bar*/
 .navbar
 {
@@ -176,7 +177,6 @@ body
 	height: 100%;
 	float:right;
 }
-
 .content__image
 {
 	width: 100%;
@@ -272,11 +272,13 @@ body
 	color: white;	
 }
 
+
 .navbar__list--footer
 {
 	padding-right: 70px;
 	padding-top: 30px;
 }
+
 
 .navbar__brand--footer
 {

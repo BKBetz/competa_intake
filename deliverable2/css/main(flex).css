@@ -1,0 +1,22 @@
+/*flexbox css*/
+html {
+  font-family: 'Roboto', sans-serif; }
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(242, 242, 242, 0.4);
+  overflow-x: hidden; }
+
+.head-container {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/4a/bf/e8/4abfe8369020b6e00f603972cbc84703.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 35rem;
+  display: flex;
+  flex-wrap: nowrap; }
+
+.navbar {
+  justify-content: center; }
+
+/*# sourceMappingURL=main(flex).css.map */
